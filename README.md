@@ -20,6 +20,9 @@ As I said above, I built this by jQuery syntax and based on Bootstrap column. So
 <br>
 After that, the only simple thing you have to do is include this tool to your file and call it to use : 
 ````html 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <!--===== Don't forget to include jquery and bootstrap before you include this tool ====-->
+    
     <script src="pixelPerfect.min.js"></script>
     <script>
       pixelPerfect.Start();
@@ -28,7 +31,7 @@ After that, the only simple thing you have to do is include this tool to your fi
 By default, I made it as a full-width column, that mean the column is use for full-width project, just like you use class .container-fluid in Bootstrap. So, if you don't want to use the full-width column, you can use it as the boxed-width, just set the fullWidth value to false  before you call it start :
 ````html
     <script>
-      pixelPerfect.fullWidth = false;
+      pixelPerfect.fullWidth = false;  //------> Set this to false before call Start();
       pixelPerfect.Start();
     </script>
 ````    
