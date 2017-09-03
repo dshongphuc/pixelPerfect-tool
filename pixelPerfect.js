@@ -1,3 +1,8 @@
+/*
+	*pixelPerfect Tool v1.0
+	*https://github.com/dshongphuc/pixelPerfect-tool
+	*Copyright (c) 2017 Phuc H. under MIT license;
+*/
 	if (typeof jQuery === 'undefined') {
   		console.log("jQuery is required for this tool");
 	}else{
