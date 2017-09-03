@@ -5,7 +5,7 @@ When I coded from PSD to HTML/CSS files, my designer complained that my code is 
 <br><br>
 
 # Screenshot : <br>
-<img src="http://res.cloudinary.com/veseylab/image/upload/v1504424119/pixelPerfect-screenshot_grjscb.jpg">
+<img src="http://res.cloudinary.com/veseylab/image/upload/v1504426834/pixelPerfect-screenshot_y1ohpo.jpg">
 
 
 # What's included?
