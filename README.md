@@ -16,7 +16,7 @@ This is a very simple tool, it's include 3 tool upto now :
 
 
 # How to use?
-As I said above, I built this by jQuery syntax and based on Bootstrap column. So, please make sure you've included jQuery and Bootstrap inside your file first.
+As I said above, I built this by jQuery syntax and based on Bootstrap column. So, *<b>please make sure you've included jQuery and Bootstrap inside your file first</b>*.
 <br>
 After that, the only simple thing you have to do is include this tool to your file and call it to use : 
 ````html 
